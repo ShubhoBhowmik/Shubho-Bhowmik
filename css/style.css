@@ -1,0 +1,63 @@
+body {
+    font-family: 'Playfair Display', serif;
+}
+
+
+.title {
+    text-align: center;
+    padding-top: 50px;
+    background-color: black;
+    height: 300px;
+    color: white;
+    
+}
+.Skill{
+    text-align: center;
+    padding:7%;
+
+}
+/* for tag only letter, no dot or hash */
+i{
+    color: orangered;
+    padding-bottom: 2%;
+
+}
+
+.Education{
+    text-align: center;
+    background-color: powderblue;
+    padding: 7%;
+}
+
+.Education .row{
+    margin-top: 3%;
+}
+
+.projects{
+
+    text-align: center;
+    padding: 7%;
+
+}
+
+.projects img{
+    padding:7% 15%;
+    max-height: 700px;
+}
+
+.contact{
+    text-align: center;
+    padding:7% 15%;
+    background-color: powderblue;
+    
+}
+
+.footer{
+    text-align: center;
+    
+} 
+
+.footer i{margin: 20px;
+    color: black;
+    
+}
